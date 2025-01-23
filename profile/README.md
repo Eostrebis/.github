@@ -1,6 +1,6 @@
 # Eostrebis
 
-Eostrebis est l'effort de [frosqh](github.com/frosqh) pour offrir une expérience D&D 5e en français. 
+Eostrebis est l'effort de [frosqh](https://github.com/frosqh) pour offrir une expérience D&D 5e en français. 
 
 Ce projet se compose de plusieurs repos : 
 
